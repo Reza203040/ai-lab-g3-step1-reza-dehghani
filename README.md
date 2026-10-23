@@ -1,12 +1,12 @@
-# پروژه تشخیص اعداد دست نویس ✍️
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=900&size=21&pause=2000&center=true&vCenter=true&width=436&height=100&lines=%D9%BE%D8%B1%D9%88%DA%98%D9%87+%D8%AA%D8%B4%D8%AE%DB%8C%D8%B5+%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF+%D8%AF%D8%B3%D8%AA+%D9%86%D9%88%DB%8C%D8%B3;%DA%AF%D8%A7%D9%85+%D8%A7%D9%88%D9%84+-+%D8%AC%D9%84%D8%B3%D9%87+%D8%B3%D9%88%D9%85;%D8%A7%D8%B3%D8%AA%D8%A7%D8%AF%3A+%D8%AE%D8%A7%D9%86%D9%85+%D8%AC%D9%88%DA%A9%D8%A7%D8%B1;%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88+%3A+%D8%B1%D8%B6%D8%A7+%D8%AF%D9%87%D9%82%D8%A7%D9%86%DB%8C&groups=2%2C2" alt="Typing SVG" /></h1>
 
 ## اطلاعات دانشجو
 
 - **نام:** رضا دهقانی
 - **درس:** آزمایشگاه هوش مصنوعی
-- **استاد:** دکتر جوکار
+- **استاد:** خانم جوکار
 - **پروژه:** تشخیص اعداد دست نویس
-- **جلسه سوم (g3) - گام اول (step1)**
+- **جلسه سوم - گام اول**
 
 ---
 
